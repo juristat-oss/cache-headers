@@ -11,7 +11,7 @@
     "url": "git+ssh://git@bitbucket.org/juristat/cache-headers.git"
   },
   "author": "Ben Chociej <ben.chociej@juristat.com>",
-  "private": true,
+  "license": "Apache-2.0",
   "homepage": "https://bitbucket.org/juristat/cache-headers#readme",
   "dependencies": {
     "moment": "^2.10.3"
