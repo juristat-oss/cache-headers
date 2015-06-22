@@ -1,0 +1,19 @@
+{
+  "name": "cache-headers",
+  "version": "1.0.0",
+  "description": "generate and set connect/express cache headers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/juristat/cache-headers.git"
+  },
+  "author": "Ben Chociej <ben.chociej@juristat.com>",
+  "private": true,
+  "homepage": "https://bitbucket.org/juristat/cache-headers#readme",
+  "dependencies": {
+    "moment": "^2.10.3"
+  }
+}
